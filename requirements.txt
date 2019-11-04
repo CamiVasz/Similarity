@@ -3,7 +3,7 @@ pydicom
 pandas
 matplotlib
 nibabel
-skimage
-sklearn
+scikit-image
+scikit-learn
 scipy
 statsmodels
