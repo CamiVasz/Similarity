@@ -1,0 +1,9 @@
+numpy
+pydicom
+pandas
+matplotlib
+nibabel
+skimage
+sklearn
+scipy
+statsmodels
