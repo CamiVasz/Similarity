@@ -1,9 +1,7 @@
 numpy
-pydicom
 pandas
-matplotlib
 nibabel
-scikit-image
-scikit-learn
 scipy
-statsmodels
+matplotlib
+scikit-image
+copulas
