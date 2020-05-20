@@ -5,3 +5,4 @@ scipy
 matplotlib
 scikit-image
 copulas
+numba
